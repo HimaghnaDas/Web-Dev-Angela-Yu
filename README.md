@@ -1,1 +1,1 @@
-This resository will contain projects or relevent data of this course.
+This resository will contain projects or relevent data of this course
